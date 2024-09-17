@@ -1,3 +1,1 @@
-# Snake Game using Python OOP and Turtle Module
-
-### I uploaded this repository for understanding how Git and Github works. 😊
+# Snake Game using Python OOPs concepts and Turtle Module
